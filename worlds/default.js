@@ -113,7 +113,7 @@ export function init(Constants) {
             card: {
                 name: "Croquet Card",
                 //behaviorModules: ["ReplaceWorld"],
-                //targetURL: "https://croquet.io/microverse/?world=test",
+                //targetURL: "https://github.com/davespser/mythosland/tree/main/?worlds=default2",
                 translation: [0, 1.5, -7.963],
                 //    translation: [4.440892098500626e-16, 2.5357677795120512, -7.9631457611584615],
                 //rotation: [0, Math.PI / 2, 0],
