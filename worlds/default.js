@@ -57,7 +57,7 @@ export function init(Constants) {
                 name: "light",
                 layers: ["light"],
                 type: "lighting",
-                behaviorModules: ["Lights"],
+                behaviorModules: ["Light"],
                 dataType: "jpg",
                 dataLocation: "./assets/sky/aboveClouds.jpg",
                 attribution: "Above the Clouds texture from HDRMaps.com",
